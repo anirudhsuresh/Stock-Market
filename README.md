@@ -39,3 +39,5 @@ Below are few highlights of the EDA done on the data sets
 ![kmeans](https://user-images.githubusercontent.com/56661161/112730748-7ddf1800-8ef0-11eb-9211-f2a1018329cf.JPG)
 
 
+## Time series forecasting using Prophet 
+![pto](https://user-images.githubusercontent.com/56661161/112730853-1d9ca600-8ef1-11eb-82e9-896a81d8fce5.JPG)
